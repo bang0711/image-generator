@@ -1,0 +1,3 @@
+runwayml/stable-diffusion-v1-5
+gsdf/Counterfeit-V2.5
+DGSpitzer/Cyberpunk-Anime-Diffusion
