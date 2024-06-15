@@ -12,13 +12,13 @@ steps below to set up and run the code.
 1. **Clone the Repository**
 
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/bang0711/image-generator.git
    ```
 
 2. **Create a Virtual Environment**
 
    ```bash
-   cd <REPO_DIRECTORY>
+   cd image-generator
    python -m venv <ENV_NAME>
    ```
 
